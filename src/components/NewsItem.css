@@ -1,0 +1,111 @@
+
+.card {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    max-width: 100%;
+    height: 550px;
+    background-color: rgb(23, 23, 97);
+    
+  }
+  
+  .card-title {
+    font-size: 1.2rem;
+    color: white;
+  }
+  
+  .card-text {
+    color: #959393;
+  }
+  .break{
+    margin-left: 32%;
+    /* margin-top: 30px; */
+    margin-bottom: 30px;
+  } 
+  .readmore{
+    /* padding-bottom: 20px; */
+    margin-bottom: 40px;
+  }
+  .outline{
+    /* background-color:#959393 ; */
+    /* margin-right: 50%; */
+    padding-top: 80px;
+  }
+  .e{
+    background-color:#959393 ;
+    max-width: 60%;
+  }
+  .sidesection{
+    background-color: rgba(24, 19, 86, 0.97);
+    width: 100%;
+  }
+  .breaki{
+    margin-left: 32%;
+    /* margin-top: 30px; */
+    margin-bottom: 30px;
+    color: white;
+  } 
+  /* SearchBar.css */
+.search-bar {
+    display: flex;
+    align-items: center;
+    width: 300px;
+    margin: 20px;
+    margin-left: 40px;
+
+  }
+  
+  input {
+    flex: 1;
+    padding: 10px;
+    border: 2px solid #3498db;
+    border-radius: 4px;
+    outline: none;
+    font-size: 16px;
+  }
+  
+  button {
+    padding: 10px 15px;
+    margin-left: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;
+  }
+  
+  button:hover {
+    background-color: #2980b9;
+  }
+  .navigation-buttons button:disabled {
+    background-color: #ffffff;
+    color: #9999991d;
+    cursor: not-allowed;}  
+  .button-row {
+      display: flex;
+      flex-direction: column;
+      gap: 10px;
+      margin-top: 20px;
+    }
+
+    .button {
+      padding: 10px 20px;
+      padding-right: 10px;
+      margin-right: 20px;
+      background-color: #3498db;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      font-size: 16px;
+    }
+
+    .button:hover {
+      background-color: #2980b9;
+    }
+    .time{
+      color: white;
+    }
+  

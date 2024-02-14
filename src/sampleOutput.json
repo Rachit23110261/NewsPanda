@@ -1,0 +1,1305 @@
+{status": "ok",
+"totalResults": 348,
+-"articles": [
+-{
+"source": {
+"id": "engadget",
+"name": "Engadget"
+},
+"author": "Cherlynn Low",
+"title": "Apple confirms it has blocked iMessage exploit",
+"description": "It was never going to last. Ever since it was launched this week, the Beeper Mini app, which let Android users get iMessage text support, was expected to be in trouble as soon as it caught Apple's attention. And catch Apple's attention it has. Yesterday, the …",
+"url": "https://www.engadget.com/apple-confirms-it-has-blocked-imessage-exploit-012015485.html",
+"urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2023-12/f77a25d0-96f7-11ee-93ab-c6ba9bdf24b0",
+"publishedAt": "2023-12-10T01:20:15Z",
+"content": "It was never going to last. Ever since it was launched this week, the Beeper Mini app, which let Android users get iMessage text support, was expected to be in trouble as soon as it caught Apple's at… [+1656 chars]"
+},
+-{
+"source": {
+"id": "the-verge",
+"name": "The Verge"
+},
+"author": "David Pierce",
+"title": "Google finally gives ChatGPT some competition",
+"description": "Plus iMessage for Android, AI images, Resident Evil 4, Disney Plus with Hulu, and more in this week’s edition of the Installer newsletter.",
+"url": "https://www.theverge.com/23993867/google-gemini-chatgpt-beeper-imessage-lego-fortnite-installer-newsletter",
+"urlToImage": "https://cdn.vox-cdn.com/thumbor/GoOUX3JUoANyHVgoAg6W0i_-DdM=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/24844605/Installer_Site_Post_001.jpg",
+"publishedAt": "2023-12-10T13:00:00Z",
+"content": "Google finally gives ChatGPT some competition\r\nGoogle finally gives ChatGPT some competition\r\n / Plus, in this weeks Installer: iMessage for Android, AI images, Lego Fortnite, and much more\r\nByDavid … [+12353 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "MacRumors"
+},
+"author": "Joe Rossignol",
+"title": "Pro Display XDR Turns Four Years Old: When to Expect a New Model",
+"description": "Apple began accepting orders for the Pro Display XDR on December 10, 2019, making the high-end monitor four years old as of today. The monitor has not been updated since, but there have been rumors about a new model being in the works.\n\n\n\n\n\nBelow, we recap al…",
+"url": "https://www.macrumors.com/2023/12/10/next-pro-display-xdr-rumor-recap/",
+"urlToImage": "https://images.macrumors.com/t/bdp6moUQ-3XjqC78wfPg70HR7Ng=/2590x/article-new/2020/05/Pro-Display-XDR-Yella.jpg",
+"publishedAt": "2023-12-10T11:00:00Z",
+"content": "Apple began accepting orders for the Pro Display XDR on December 10, 2019, making the high-end monitor four years old as of today. The monitor has not been updated since, but there have been rumors a… [+2007 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "MacRumors"
+},
+"author": "Hartley Charlton",
+"title": "Apple Confirms It Shut Down iMessage for Android App Beeper Mini",
+"description": "Apple today confirmed that it took steps to shut down the functionality of Beeper Mini, an app that enabled Android users to send and receive iMessages.\n\n\n\n\n\nApple emphasized its commitment to user privacy and security, explaining that the move was necessitat…",
+"url": "https://www.macrumors.com/2023/12/10/apple-confirms-it-shut-down-beeper-mini/",
+"urlToImage": "https://images.macrumors.com/t/4KeWQYOeMKyF_bQm5ElQfsf1zJs=/1600x/article-new/2023/12/beeper-mini.jpg",
+"publishedAt": "2023-12-10T11:44:22Z",
+"content": "Apple today confirmed that it took steps to shut down the functionality of Beeper Mini, an app that enabled Android users to send and receive iMessages.\r\nApple emphasized its commitment to user priva… [+1920 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Xataka.com"
+},
+"author": "Yúbal Fernández",
+"title": "Los mejores 21 juegos para móvil que los editores de Xataka han descubierto en 2023",
+"description": "Te traemos una lista con los mejores juegos descubiertos en 2023 por los editores de Xataka y otros medios tecnológicos de Webedia España. De esta manera, vas a tener una lista de los juegos que más nos han gustado que quizá pueda ayudarte a hacer algún descu…",
+"url": "https://www.xataka.com/basics/mejores-21-juegos-para-movil-que-editores-xataka-han-descubierto-2023",
+"urlToImage": "https://i.blogs.es/cbb5d0/juegos-moviles/840_560.jpeg",
+"publishedAt": "2023-12-10T13:00:56Z",
+"content": "Te traemos una lista con los mejores juegos descubiertos en 2023 por los editores de Xataka y otros medios tecnológicos de Webedia España. De esta manera, vas a tener una lista de los juegos que más … [+15859 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Xataka.com"
+},
+"author": "Javier Lacort",
+"title": "Gemini Nano va a ser una revolución y es lo que quiero que sea Siri en iOS 18",
+"description": "El anuncio de Google Gemini, con tres modelos multimodales, es el típico escenario en el que los ojos se nos van al modelo más ambicioso, Gemini Ultra, y no prestamos tanta atención al más pequeño.\n<!-- BREAK 1 -->\nEn este caso, tiene todo el sentido empezar …",
+"url": "https://www.xataka.com/robotica-e-ia/gemini-nano-va-a-ser-revolucion-que-quiero-que-sea-siri-ios-18",
+"urlToImage": "https://i.blogs.es/952ae1/google-io-2023-gemini/840_560.jpeg",
+"publishedAt": "2023-12-10T10:00:54Z",
+"content": "El anuncio de Google Gemini, con tres modelos multimodales, es el típico escenario en el que los ojos se nos van al modelo más ambicioso, Gemini Ultra, y no prestamos tanta atención al más pequeño.\r\n… [+4027 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Digital Trends"
+},
+"author": "Albert Bassili",
+"title": "The 9 best headphone deals in Best Buy’s 3-day sale — from $60",
+"description": "There are a lot of excellent headphones you can buy from Best Buy's 3-day sale, whether you want something high-end or something budget-oriented.",
+"url": "https://www.digitaltrends.com/dtdeals/best-headphone-deals-in-best-buy-3-day-sale-2023/",
+"urlToImage": "https://www.digitaltrends.com/wp-content/uploads/2022/05/sony-wh-1000xm5-launch-2.jpeg?resize=1200%2C630&p=1",
+"publishedAt": "2023-12-10T10:57:59Z",
+"content": "Grabbing a good pair of headphones can be a huge deal if you’re a music lover and tend to listen to music or audio for the majority of your day. As such, headphones are your best bet when it comes to… [+2031 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "heise online"
+},
+"author": "Wolfgang Kreutz",
+"title": "App erzeugt per KI Vektorgrafiken mit Logoist",
+"description": "Das Zeichenprogramm Logoist für macOS und iOS erstellt mit dem jüngsten Update per KI–Prompt bearbeitbare Vektorgrafiken.",
+"url": "https://www.heise.de/news/App-erzeugt-per-KI-Vektorgrafiken-mit-Logoist-9569636.html",
+"urlToImage": "https://heise.cloudimg.io/bound/1200x1200/q85.png-lossy-85.webp-lossy-85.foil1/_www-heise-de_/imgs/18/4/5/1/1/4/9/9/Screenshot_2023-12-09_at_17.52.54-59dc60d01e3a72e1.png",
+"publishedAt": "2023-12-10T09:35:00Z",
+"content": "Inhaltsverzeichnis\r\nDie deutsche App-Schmiede Synium Software hat am Donnerstag Version 5.1 der Grafik-Anwendung Logoist vorgestellt. Das Illustrations-Tool arbeitet vektorbasiert und soll mit Assist… [+2760 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Android Police"
+},
+"author": "Rajesh Pandey",
+"title": "Apple cuts off Beeper Mini’s access to iMessage",
+"description": "The cat-and-mouse game between Apple and Beeper has just begun",
+"url": "https://www.androidpolice.com/apple-cuts-off-beeper-mini-access-imessage/",
+"urlToImage": "https://static1.anpoimages.com/wordpress/wp-content/uploads/wm/2023/12/beeper-mini-hero-1.jpg",
+"publishedAt": "2023-12-10T07:34:59Z",
+"content": "Summary\r\n<ul><li> Beeper Mini debuted on Android, allowing green bubble users to use iMessage. But Apple's steps to prevent unauthorized access caused a massive outage. </li><li> Beeper got its servi… [+2690 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "AppleInsider"
+},
+"author": "news@appleinsider.com (Malcolm Owen)",
+"title": "Apple confirms it blocked Beeper Mini citing security risks",
+"description": "Apple has officially responded to the Beeper Mini controversy, confirming it cut off the Android app's access to iMessage citing \"significant risks to user security and privacy.\"The shutdown of Beeper Mini's access to the iMessage network on Friday was sudden…",
+"url": "https://appleinsider.com/articles/23/12/10/apple-confirms-it-blocked-beeper-mini-citing-security-risks",
+"urlToImage": "https://photos5.appleinsider.com/gallery/57637-117415-57572-117292-beepermini-xl-xl.jpg",
+"publishedAt": "2023-12-10T12:43:44Z",
+"content": "Apple has officially responded to the Beeper Mini controversy, confirming it cut off the Android app's access to iMessage citing \"significant risks to user security and privacy.\" \r\nThe shutdown of Be… [+1981 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "CNET"
+},
+"author": "Patrick Holland",
+"title": "It Wasn't Just You: Apple Took Steps To Block Access to iMessage Using Fake Credentials - CNET",
+"description": "The blue bubble/green bubbles saga continues. Apple prevented iMessage access from Android apps masquerading as Apple credentials to protect customers.",
+"url": "https://www.cnet.com/tech/mobile/it-wasnt-just-you-apple-took-steps-to-block-access-to-imessage-using-fake-credentials/",
+"urlToImage": "https://www.cnet.com/a/img/resize/9a062ab534e401938f4e36fe0c3782797e0e0dd1/hub/2019/11/08/fb22b5a0-75a8-46e2-9247-b3eee66712d5/imessage-iphone-11-pro-max.jpg?auto=webp&fit=crop&height=675&width=1200",
+"publishedAt": "2023-12-10T02:32:00Z",
+"content": "In the latest chapter of blue bubbles versus green bubbles, Apple has blocked access to iMessage from credentials masquerading as Apple in order to protect its customers, the company told CNET on Sat… [+2096 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Korben.info"
+},
+"author": "Korben",
+"title": "Comment installer Windows 11 ARM sur VMware Fusion – Apple Silicon",
+"description": "Après avoir réussi à installer un Windows 11 ARM sur son iMac M3 ARM64, l'auteur explique le processus : télécharger l'image de Windows 11 ARM, convertir le fichier .VHDX inutile pour VMware en .VMDK via l'outil vdiskmanager de VMware, puis créer une nouvelle…",
+"url": "https://korben.info/install-windows-11-arm-vmware-fusion-apple-silicon.html",
+"urlToImage": "https://korben.info/app/uploads/2023/11/CommentinstallerWindows11ARMsurVMwareFusion-AppleSilicon.webp",
+"publishedAt": "2023-12-10T08:00:00Z",
+"content": "J’aurais mis quelques années, mais ça y est, je suis enfin passé sur une architecture ARM64 pour mon usage quotidien. Il s’agit d’un iMac M3 (donc Apple Silicon) de couleur bleu pastel et ça marche s… [+2932 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Applesfera.com"
+},
+"author": "Miguel López",
+"title": "Un minuto de silencio: todos los productos Apple que han muerto este 2023",
+"description": "No queremos pensarlo, pero a este 2023 le quedan pocos días. En nuestras cabezas rondan las celebraciones navideñas que ya tenemos encima, pero en los despachos del Apple Park ya piensan en la agenda del año que viene. 2023 ya está finiquitado, ya se han hech…",
+"url": "https://www.applesfera.com/apple-1/minuto-silencio-todos-productos-apple-que-han-muerto-este-2023",
+"urlToImage": "https://i.blogs.es/04d498/apple-tumba/840_560.jpeg",
+"publishedAt": "2023-12-10T09:00:53Z",
+"content": "No queremos pensarlo, pero a este 2023 le quedan pocos días. En nuestras cabezas rondan las celebraciones navideñas que ya tenemos encima, pero en los despachos del Apple Park ya piensan en la agenda… [+3468 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "The A.V. Club"
+},
+"author": "Saloni Gajjar",
+"title": "What's on TV this week—The Crown ends, and Kevin Hart and Chris Rock team up",
+"description": "Welcome to What’s On, our weekly picks of must-watch shows. Here’s what you need to watch from Sunday, December 10 to Thursday, December 14. All times are Eastern. [Note: The weekend edition of What’s On drops on Fridays.]Read more...",
+"url": "https://www.avclub.com/whats-on-tv-dec-10-to-14-the-crown-headliners-only-1851057731",
+"urlToImage": "https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/9ad22a805f0d56e5352c7db7e2af6d37.png",
+"publishedAt": "2023-12-10T13:00:00Z",
+"content": "Welcome to Whats On, our weekly picks of must-watch shows. Heres what you need to watch from Sunday, December 10 to Thursday, December 14. All times are Eastern. [Note: The weekend edition of Whats O… [+3508 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Ritholtz.com"
+},
+"author": "Barry Ritholtz",
+"title": "10 Sunday Reads",
+"description": "Avert your eyes! My Sunday morning look at incompetency, corruption and policy failures: • The Age of Doom: Social media has convinced us that everything is awful all the time For a huge number of young people climate change isn’t an issue that’s serious but …",
+"url": "https://ritholtz.com/2023/12/10-sunday-reads-166/",
+"urlToImage": "https://ritholtz.com/wp-content/uploads/2023/12/socialmedia.png",
+"publishedAt": "2023-12-10T11:30:51Z",
+"content": "Avert your eyes! My Sunday morning look at incompetency, corruption and policy failures:The Age of Doom: Social media has convinced us that everything is awful all the time For a huge number of young… [+3538 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Les Numériques"
+},
+"author": "Alexandre Scotti",
+"title": "Actualité : iPhone 16 : de meilleurs micros pour un Siri bien plus performant",
+"description": "D’après l’analyste Ming-Chi Kuo, Apple serait en train d’améliorer les microphones des iPhone 16, potentiellement en prévision de l’intégration de l’intelligence artificielle dans Siri.",
+"url": "https://www.lesnumeriques.com/telephone-portable/iphone-16-de-meilleurs-micros-pour-un-siri-bien-plus-performant-n216361.html",
+"urlToImage": "https://cdn.lesnumeriques.com/optim/news/21/216361/ac5e2b64-iphone-16-de-meilleurs-micros-pour-un-siri-bien-plus-performant_png__1200_630__overflow.jpg",
+"publishedAt": "2023-12-10T07:11:00Z",
+"content": "En juin 2024, Apple présentera iOS 18. Avec cette nouvelle version majeure, le système dexploitation des iPhone devrait sacquitter de fonctionnalités basées sur lintelligence artificielle, notamment … [+1841 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Xatakamovil.com"
+},
+"author": "Eva Rodriguez de Luis",
+"title": "Apple confirma que ha bloqueado Beeper Mini 'para proteger a los usuarios': adiós a iMessage en Android",
+"description": "Esta semana Beeper anunciaba la llegada de su aplicación en forma de servicio de suscripción mensual para enviar mensajes vía iMessage con la burbuja azul directamente desde Android. Servidora se lo instaló, usó el periodo de prueba para constatar lo bien que…",
+"url": "https://www.xatakamovil.com/apple/apple-confirma-que-ha-bloqueado-beeper-mini-para-proteger-a-usuarios-adios-a-imessage-android",
+"urlToImage": "https://i.blogs.es/b64848/beeper/840_560.jpeg",
+"publishedAt": "2023-12-10T08:30:53Z",
+"content": "Esta semana Beeper anunciaba la llegada de su aplicación en forma de servicio de suscripción mensual para enviar mensajes vía iMessage con la burbuja azul directamente desde Android. Servidora se lo … [+4955 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Xatakamovil.com"
+},
+"author": "Alejandro Alcolea",
+"title": "2023, el año en el que Europa puso el iPhone patas arriba",
+"description": "2023 ha sido un año muy interesante en el mundillo tecnológico debido a lanzamientos tremendamente importantes de todas las compañías. Algunos son esperados, como las nuevas generaciones de los diferentes fabricantes o los nuevos procesadores Snapdragon 8 Gen…",
+"url": "https://www.xatakamovil.com/apple/2023-ano-que-europa-puso-iphone-patas-arriba",
+"urlToImage": "https://i.blogs.es/3d6b45/apple-euuropa/840_560.jpeg",
+"publishedAt": "2023-12-10T12:00:55Z",
+"content": "2023 ha sido un año muy interesante en el mundillo tecnológico debido a lanzamientos tremendamente importantes de todas las compañías. Algunos son esperados, como las nuevas generaciones de los difer… [+5520 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Playpcesor.com"
+},
+"author": "Esor Huang",
+"title": "MyMap AI 一鍵畫出中文思維導圖、視覺化資訊圖表、故事板與簡報",
+"description": "我常常在大腦想問題卡關時，和 ChatGPT 對話來激發一些想法，而如果這個對話過程可以更加「視覺化」呢？ 只需一下點擊，一個想法、問題、知識主題就能轉化為清晰、引人入勝的視覺圖表，這就是 MyMap AI 可以提供的功能。 無論是用在尋找靈感、整理複雜的資料，還是準備一場重要...",
+"url": "https://www.playpcesor.com/2023/12/mymap-ai-mindmap-brainstorming-information-organization.html",
+"urlToImage": "https://blogger.googleusercontent.com/img/a/AVvXsEhPI43AqPDaFDjt4mS_JFXxNH2ruFq3L6yNX6PPZHWqax-ZQ8Rc0JDS64x9APYy_BQpJ0RlKZQR--OeV3Rcox0HZNFGzdmEo5W24pD_zqTkPtK3Cu9sbAcezFkFvvfobvDbFJoHJGTtabiXt8QAzFhag7HQ57bpWto8OlrfNTjLvQTalj0Oxn5F8w=w1200-h630-p-k-no-nu",
+"publishedAt": "2023-12-10T06:09:00Z",
+"content": "我常常在大腦想問題卡關時，和 ChatGPT 對話來激發一些想法，而如果這個對話過程可以更加「視覺化」呢？只需一下點擊，一個想法、問題、知識主題就能轉化為清晰、引人入勝的視覺圖表，這就是 MyMap AI 可以提供的功能。無論是用在尋找靈感、整理複雜的資料，還是準備一場重要的簡報，在 MyMap AI 的無限大白板中，迅速將各種點子（想法、疑問）轉化為結構化的心智圖、時間軸、看板牆、故事板，甚至… [+2262 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Caschys Blog"
+},
+"author": "André Westphal",
+"title": "Internationaler Smartwatch-Markt erholt sich langsam",
+"description": "Der internationale Markt für Smartwatches erholt sich langsam. Zumindest wollen das die Marktforscher von Counterpoint Research herausgefiltert haben. Demnach habe es im 3. Quartal 2023 bei den Auslieferungsmengen einen Anstieg um 9 % gegeben, wenn man mit de…",
+"url": "https://stadt-bremerhaven.de/internationaler-smartwatch-markt-erholt-sich-langsam/",
+"urlToImage": "https://stadt-bremerhaven.de/wp-content/uploads/2023/11/redmi-watch-4.jpg",
+"publishedAt": "2023-12-10T13:00:34Z",
+"content": "Der internationale Markt für Smartwatches erholt sich langsam. Zumindest wollen das die Marktforscher von Counterpoint Research herausgefiltert haben. Demnach habe es im 3. Quartal 2023 bei den Ausli… [+1430 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Frandroid"
+},
+"author": "Clément Gareau",
+"title": "Noël : nos idées de cadeaux à offrir aux passionnés de vélo",
+"description": "Noël approche à grands pas ! Vous avez un proche qui ne jure que par les deux roues ? Pourquoi ne pas lui offrir un accessoire bien pensé et bien utile ? Frandroid vous a concocté une sélection pointue des meilleurs accessoires et objets à offrir à un fan de …",
+"url": "https://www.frandroid.com/guide-dachat/1880551_noel-nos-idees-de-cadeaux-a-offrir-aux-passionnes-de-velo",
+"urlToImage": "https://images.frandroid.com/wp-content/uploads/2023/12/idees-cadeaux-de-noel-pour-les-fans-de-velo.jpg",
+"publishedAt": "2023-12-10T10:00:44Z",
+"content": "Noël approche à grands pas ! Vous avez un proche qui ne jure que par les deux roues ? Pourquoi ne pas lui offrir un accessoire bien pensé et bien utile ? Frandroid vous a concocté une sélection point… [+7988 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Srad.jp"
+},
+"author": "headless",
+"title": "任意のサブドメインを指定可能なRedditのバグ、Googleの検索結果に侮蔑表現を表示する",
+"description": "Reddit の URL でサブドメインを指定すると対応するサブ Reddit へリダイレクトする機能のバグが悪用され、Google の検索結果に侮蔑表現が掲載された\n(The Verge の記事、\nArs Technica の記事)。\n\nReddit では science.reddit.com のようにサブドメインを指定すると対応するサブ Reddit「r/science」 (www.reddit.com/r/science) へリダイレクトする機能が用意されている。しかし、Reddit が 1 ～ 2 週間前…",
+"url": "https://it.srad.jp/story/23/12/10/1247247/",
+"urlToImage": "https://srad.jp/static/topics/bug_64.png",
+"publishedAt": "2023-12-10T13:26:00Z",
+"content": "Reddit URL Reddit Google \r\n(The Verge Ars Technica )Reddit science.reddit.com Redditr/science (www.reddit.com/r/science) Reddit 1 2 ( Reddit ) Reddit URL Reddit Reddit URL Google Reddit URL"
+},
+-{
+"source": {
+"id": null,
+"name": "01net.com"
+},
+"author": "Bons Plans 01net",
+"title": "MacBook Air : son tarif chute comme Alice au pays des merveilles (-150 €)",
+"description": "Économiser 150 euros sur le MacBook Air, c'est ce que propose Amazon en ce moment. Avec la livraison à domicile offerte, et ce même pour ceux qui ne disposent pas d'un compte Amazon Prime !",
+"url": "https://www.01net.com/bons-plans/macbook-air-son-tarif-chute-comme-alice-au-pays-des-merveilles-150-e.html",
+"urlToImage": "https://www.01net.com/app/uploads/2023/12/apple-macbook-air-m2-2022.webp",
+"publishedAt": "2023-12-10T08:55:46Z",
+"content": "Économiser 150 euros sur le MacBook Air, c’est ce que propose Amazon en ce moment. Avec la livraison à domicile offerte, et ce même pour ceux qui ne disposent pas d’un compte Amazon Prime !Amazon ven… [+3728 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": null,
+"title": "Apple Shutters Third-Party Apps that Enabled iMessage on Android",
+"description": null,
+"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_e10ead42-60fa-4ba9-9e47-b7c8d7513900",
+"urlToImage": null,
+"publishedAt": "2023-12-10T02:28:22Z",
+"content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+},
+-{
+"source": {
+"id": "t3n",
+"name": "T3n"
+},
+"author": "Andreas Weck",
+"title": "„Fasten ist für mich das ‚Marie Kondo für den Kopf‘“ – Annemarie Heyl von Kale & Me",
+"description": "Was brauchst du, um gut arbeiten zu können? Für Annemarie Heyl von Kale & Me geht es nicht ohne Fasten und die Notizen-App. Was außerdem nicht fehlen darf, erzählt sie im Rahmen unserer „5 Dinge, ohne die ich nicht arbeiten kann“-Serie. Annemarie Heyl ist die…",
+"url": "https://t3n.de/news/annemarie-heyl-kale-me-1595299/",
+"urlToImage": "https://t3n.de/news/wp-content/uploads/2023/12/Annemarie-Heyl_KaleMe.jpg",
+"publishedAt": "2023-12-10T11:00:43Z",
+"content": "Annemarie Heyl ist die Gründerin von Kale &amp; Me und begleitet Menschen beim Fasten von Produkt bis Beratung. Sie und ihr Mann haben zwei Unternehmen an zwei Standorten: Annemarie mit ihrem Startup… [+3463 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "PCWorld"
+},
+"author": "DealPost Team",
+"title": "This refurbished Apple TV HD is just $70 for the holidays",
+"description": "We are well in the midst of the streaming revolution, and everybody has picked their sides. Well, if you know somebody who hasn’t and you want to bring them into the world of Apple TV, then this is the perfect gift. Through December 17th, you can get a refurb…",
+"url": "https://www.pcworld.com/article/2167037/this-refurbished-apple-tv-hd-is-just-70-for-the-holidays.html",
+"urlToImage": "https://www.pcworld.com/wp-content/uploads/2023/12/PCWorld-Apple-TV-HD-4th-Gen-2015-with-Siri-Remote-Refurbished.jpeg?quality=50&strip=all&w=1024",
+"publishedAt": "2023-12-10T08:00:00Z",
+"content": "Skip to contentType your search and hit enter\r\nWhen you purchase through links in our articles, we may earn a small commission. This doesn't affect our editorial independence\r\n.\r\nWe are well in the m… [+1094 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Marketingdirecto.com"
+},
+"author": "Cynthia Reina",
+"title": "¿Qué es Instagram? Descubre si merece la pena tener un perfil en esta red social",
+"description": "Descubre qué es Instagram, su historia y todas sus funciones y ventajas y desventajas de esta útil red social. \nLa entrada ¿Qué es Instagram? Descubre si merece la pena tener un perfil en esta red social se publicó primero en Marketing Directo.",
+"url": "https://www.marketingdirecto.com/imprescindibles/social-media/que-es-instagram",
+"urlToImage": "https://www.marketingdirecto.com/wp-content/uploads/2022/11/que-es-instagram.jpg",
+"publishedAt": "2023-12-10T11:50:00Z",
+"content": "Descubre qué es Instagram, su historia y todas sus funciones y ventajas y desventajas de esta útil red social.Instagram(comúnmente abreviado como IG o Insta) dio sus primeros pasos en 2010 por los de… [+6751 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "La Vanguardia"
+},
+"author": "Edgar Otero",
+"title": "Las 8 mejores aplicaciones para hacer vídeos con fotos y música gratis",
+"description": "De apps para editar vídeos hay muchas, y muy buenas. La mayoría de ellas te ayudarán a hacer montajes muy buenos con varios vídeos, editando cada uno y agregando archivos de audio. Pero, ¿y qué pasa cuando la idea es hacer una presentación de fotos y música? …",
+"url": "https://www.lavanguardia.com/andro4all/aplicaciones-de-fotografia/apps-para-hacer-videos-con-fotos-y-musica",
+"urlToImage": "https://www.lavanguardia.com/andro4all/hero/2023/12/hacer-videos-con-fotos-y-musica.jpg?width=1200",
+"publishedAt": "2023-12-10T10:01:13Z",
+"content": "Descubre los mejores editores y herramientas para hacer vídeos con fotos y música.\r\nDe apps para editar vídeos hay muchas, y muy buenas. La mayoría de ellas te ayudarán a hacer montajes muy buenos co… [+6788 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Clubic"
+},
+"author": "Stéphane Ficca",
+"title": "Ça chauffe entre Elon Musk et le patron de Disney...",
+"description": "Depuis quelques jours, Elon Musk multiplie les tweets assassins à l'encontre du géant Disney. Mais pourquoi est-il aussi méchant ?",
+"url": "https://www.clubic.com/actualite-511840-ca-chauffe-entre-elon-musk-et-le-patron-de-disney.html",
+"urlToImage": "https://pic.clubic.com/v1/images/2168151/raw",
+"publishedAt": "2023-12-10T09:17:00Z",
+"content": "Depuis quelques jours, Elon Musk multiplie les tweets assassins à l'encontre du géant Disney. Mais pourquoi est-il aussi méchant ?\r\nDepuis quelques semaines, de nombreux annonceurs ont décidé de reti… [+2000 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Clubic"
+},
+"author": "Naïm Bada",
+"title": "Le Récapp' : Threads arrive en France, Youtube se met aux jeux-vidéo, Telegram, les actus qu'il ne fallait pas manquer cette semaine",
+"description": "Le week-end est arrivé, il est temps pour Clubic de revenir sur les nouveautés de vos apps préférées annoncées cette semaine.",
+"url": "https://www.clubic.com/actualite-511126-le-recapp-threads-arrive-en-france-youtube-se-met-aux-jeux-video-telegram-les-actus-qu-il-ne-fallait-pas-manquer-cette-semaine.html",
+"urlToImage": "https://pic.clubic.com/v1/images/2169001/raw",
+"publishedAt": "2023-12-10T07:00:00Z",
+"content": "Le week-end est arrivé, il est temps pour Clubic de revenir sur les nouveautés de vos apps préférées annoncées cette semaine.\r\nCette semaine, Meta a annoncé l'arrivée d'une de ses applications en Eur… [+5876 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "The Indian Express"
+},
+"author": "Tech Desk",
+"title": "Apple quickly disables Beeper Mini, the new iMessage app for Android",
+"description": "Users required a subscription to use Beeper Mini on Android phones.",
+"url": "https://indianexpress.com/article/technology/tech-news-technology/beeper-mini-imessage-for-android-shut-down-9062080/",
+"urlToImage": "https://images.indianexpress.com/2023/12/beeper-mini-imessage-on-android.jpg",
+"publishedAt": "2023-12-10T07:21:15Z",
+"content": "If you have been waiting for the blue bubble messaging on your Android smartphone, then the wait continues as Apple shuts down Beeper Mini, an app that enabled Android users to experience iMessage fe… [+2047 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "DIE WELT"
+},
+"author": "Oliver Polak",
+"title": "Einer der wenigen Orte, wo Politik und Religion kein Thema sind",
+"description": "Der Zirkus Roncalli gastiert in New York. Damit wird eine Idee, die Andy Warhol bereits vor 43 Jahren hatte, in die Tat umgesetzt. Oliver Polak, selbst einmal Mitglied des Ensembles, war bei der „Reise zum Regenbogen“ dabei.",
+"url": "https://www.welt.de/kultur/article248822016/Oliver-Polak-Das-Gastspiel-des-Zirkus-Roncalli-in-New-York.html",
+"urlToImage": "https://img.welt.de/img/kultur/mobile248951204/6701358357-ci16x9-w1200/Circus-Roncalli-in-New-York-Foto-ueber-h-15.jpg",
+"publishedAt": "2023-12-10T10:41:02Z",
+"content": "Seit fast fünfzig Jahren begeistert der Zirkus Roncalli das europäische Publikum vor ausverkauften Rängen, auch mit Gastspielen außerhalb Deutschlands. Dänemark, Österreich, Spanien, 1986 als erster … [+6381 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Numerama"
+},
+"author": "Matthieu Fabris",
+"title": "Apple TV 4K : l’excellente box multimédia d’Apple est enfin en réduction",
+"description": "[Deal du Jour] L’Apple TV 4K de 3e génération est l'une des meilleures box multimédia sur le marché, si ce n'est la meilleure. Rarement en promotion, le boîtier d'Apple, modèle Wi‑Fi + Ethernet, bénéficie d'une réduction de 40 € sur La Fnac.",
+"url": "https://www.numerama.com/tech/1584266-apple-tv-4k-lexcellente-box-multimedia-dapple-est-enfin-en-reduction.html",
+"urlToImage": "https://www.numerama.com/wp-content/uploads/2022/11/apple-tv-box-lcair.jpg",
+"publishedAt": "2023-12-10T13:07:00Z",
+"content": "[Deal du Jour] LApple TV 4K de 3e génération est l’une des meilleures box multimédia sur le marché, si ce n’est la meilleure. Rarement en promotion, le boîtier d’Apple, modèle WiFi + Ethernet, bénéfi… [+2603 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Tomshw.it"
+},
+"author": "Andrea Maiellano",
+"title": "Apple, dov'è finito il CarPlay di nuova generazione?",
+"description": "La presentazione della nuova generazione di CarPlay durante il WWDC 22 da parte di Apple ha sollevato molteplici aspettative, ma con l'avvicinarsi del 2024, il silenzio attorno a questa nuova versione...",
+"url": "https://www.tomshw.it/automotive/apple-dove-finito-il-carplay-di-nuova-generazione",
+"urlToImage": "https://www.tomshw.it/storage/media/2023/12/7118/2023_Volkswagen_ID-4_running_wireless_CarPlay.jpg",
+"publishedAt": "2023-12-10T12:15:49Z",
+"content": "La presentazione della nuova generazione di CarPlay durante il WWDC 22 da parte di Apple ha sollevato molteplici aspettative, ma con l'avvicinarsi del 2024, il silenzio attorno a questa nuova version… [+2358 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Techbang.com"
+},
+"author": "ycr",
+"title": "TikTok 2023 年度回顧排行榜出爐！台灣萌犬登上世界舞台，韓流狂席全球榜單",
+"description": "TikTok公開TikTok 2023年度回顧，盤點在地與全球社群為之瘋狂的潮流、創作者與經典時刻。而來自台灣市場的邊境牧羊犬「布布」，2023年在TikTok上萌翻全球。2023 年即將進入尾聲，你跟上全球今年到底在紅什麼了嗎？TikTok 7日公開 TikTok 2023 年度回顧，與全球社群一同回味今年究竟「滑」生什麼事，盤點在地與全球社群為之瘋狂的潮流、創作者與經典時刻，用歡笑與難忘回憶為 2023 畫上完美的句點！\n從萬無一失的料理食譜、引人入勝的搞笑短劇，到千萬人傳唱的經典名曲，以及成長茁壯的中小企業…",
+"url": "https://www.techbang.com/posts/111665-tiktoks-2023-annual-review-list-is-released-taiwans-cute-dogs",
+"urlToImage": "https://cdn0.techbang.com/system/excerpt_images/111665/original/a9ecc59dd6434033ee5f0599af264cbd.jpg?1701934270",
+"publishedAt": "2023-12-10T00:00:00Z",
+"content": "2023 TikTok 7 TikTok 2023 2023 \r\nTikTok 2023 \r\n 2023 TikTok 2023 \r\n2023 \r\n<ol><li>@mygoldenpartner</li><li>@73_tricking</li><li>@magi0225</li><li>@boyviolin...</li><li>@cooper365584</li></ol>\r\n<ol><l… [+3363 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Basicthinking.de"
+},
+"author": "Felix Baumann",
+"title": "Push-Nachrichten: Behörden haben Nutzer über Apple und Google ausspioniert",
+"description": "Ein Brief eines US-amerikanischen Senators offenbart, wie Behörden Push-Nachrichten zur Überwachung von Apple- und Google-Nutzern genutzt haben. Bisher gibt es kaum Transparenz. In den vergangenen Jahren ist private Kommunikation immer sicherer geworden. Währ…",
+"url": "https://www.basicthinking.de/blog/2023/12/10/ueberwachung-push-nachrichten/",
+"urlToImage": "https://www.basicthinking.de/blog/wp-content/uploads/2022/02/gewerkschaft_apple_android_ueberwachung.jpg",
+"publishedAt": "2023-12-10T05:00:38Z",
+"content": "Ein Brief eines US-amerikanischen Senators offenbart, wie Behörden Push-Nachrichten zur Überwachung von Apple- und Google-Nutzern genutzt haben. Bisher gibt es kaum Transparenz.\r\nIn den vergangenen J… [+2322 chars]"
+},
+-{
+"source": {
+"id": "marca",
+"name": "Marca"
+},
+"author": "marca.com",
+"title": "Regalos originales para mujer: 80 ideas para acertar esta Navidad",
+"description": "¿Buscas ideas para sorprender a la mujer de tu vida? ¿No sabes qué regalarle a tu novia, tu madre, tu hermana o a tu mejor amiga? En BAZAR te lo ponemos muy fácil con esta selecció",
+"url": "https://www.marca.com/regalos-promociones/2023/12/09/65742fa722601dc8058b4590.html",
+"urlToImage": "https://phantom-marca.unidadeditorial.es/3a9b20af55d937559de246c8914d6659/resize/1200/f/webp/assets/multimedia/imagenes/2023/12/09/17021094772171.jpg",
+"publishedAt": "2023-12-10T12:02:52Z",
+"content": "¿Buscas ideas para sorprender a la mujer de tu vida? ¿No sabes qué regalarle a tu novia, tu madre, tu hermana o a tu mejor amiga? En BAZAR te lo ponemos muy fácil con esta selección de propuestas par… [+27750 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "9to5google.com"
+},
+"author": "Abner Li",
+"title": "Apple confirms that it shut down Beeper Mini’s iMessage for Android, and will continue to",
+"description": "On Friday afternoon, Beeper Mini on Android stopped working and Apple confirmed today that it “took steps to protect our users by blocking techniques that exploit fake credentials in order to gain access to iMessage.” \n more…\nThe post Apple confirms that it s…",
+"url": "https://9to5google.com/2023/12/09/apple-beeper-mini-imessage/",
+"urlToImage": "https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2023/09/beeper-fi-02.webp?resize=1200%2C628&quality=82&strip=all&ssl=1",
+"publishedAt": "2023-12-10T01:07:34Z",
+"content": "On Friday afternoon, Beeper Mini on Android stopped working and Apple confirmed today that it “took steps to protect our users by blocking techniques that exploit fake credentials in order to gain ac… [+1978 chars]"
+},
+-{
+"source": {
+"id": "techradar",
+"name": "TechRadar"
+},
+"author": "David Nield",
+"title": "Apple rumored to be switching its Mac accessories to USB-C early in 2024",
+"description": "According to one tipster, Apple's mouse, keyboard and trackpad are going to adopt USB-C soon.",
+"url": "https://www.techradar.com/computing/macs/apple-rumored-to-be-switching-its-mac-accessories-to-usb-c-early-in-2024",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/9wb6Q4cUZJgHw4v3oMdUrD-1200-80.jpg",
+"publishedAt": "2023-12-10T13:30:54Z",
+"content": "The iPhone 15 made the switch to USB-C this year, but the Lightning port lives on with several Mac accessories. The latest rumor is that these accessories will get updated with USB-C ports in the fir… [+1693 chars]"
+},
+-{
+"source": {
+"id": "techradar",
+"name": "TechRadar"
+},
+"author": "Luke Edwards",
+"title": "The best tech gifts for golfers, from Garmin golf watches to laser rangefinders",
+"description": "Golf watch gifting is more affordable and useful than ever, making this the season to improve someone's game.",
+"url": "https://www.techradar.com/health-fitness/the-best-tech-gifts-for-golfers-from-garmin-golf-watches-to-laser-rangefinders",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/hYdTwzZVCXJQcXCvDeVx5W-1200-80.jpg",
+"publishedAt": "2023-12-10T09:30:10Z",
+"content": "Golf courses might be frosty at this time of year but that simply means it can be easier to get a tee time, so why not make that game even better by giving one of the best golf watches this season?\r\n… [+3489 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Gene Marks, Contributor, \n Gene Marks, Contributor\n https://www.forbes.com/sites/quickerbettertech/",
+"title": "Business Tech Roundup: Microsoft Teams Moves A Step Closer To No Longer Being Part Of Office",
+"description": "Google delays its big AI product, GoDaddy introduces new features and AI is growing in HR.",
+"url": "https://www.forbes.com/sites/quickerbettertech/2023/12/10/business-tech-roundup-microsoft-teams-moves-a-step-closer-to-no-longer-being-part-of-office/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6572f670c59981a08a413811/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds",
+"publishedAt": "2023-12-10T12:00:00Z",
+"content": "SPAIN - 2021/04/20: In this photo illustration, the Microsoft Teams app seen displayed on a ... [+] smartphone screen and a Microsoft Teams logo on a laptop in the background. (Photo Illustration by … [+4247 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Forbes"
+},
+"author": "Karla Alindahao, Senior Contributor, \n Karla Alindahao, Senior Contributor\n https://www.forbes.com/sites/karlaalindahao/",
+"title": "2023 Forbes Holiday Cocktail Guide",
+"description": "Creative cocktail recipes for 15 festive drinks—and two punches that pack a punch—from award-winning bartenders around the world.",
+"url": "https://www.forbes.com/sites/karlaalindahao/2023/12/08/best-holiday-cocktail-recipes-2023/",
+"urlToImage": "https://imageio.forbes.com/specials-images/imageserve/657377dd93aba4444285a665/0x0.jpg?format=jpg&crop=2259,1272,x0,y0,safe&height=900&width=1600&fit=bounds",
+"publishedAt": "2023-12-10T11:00:00Z",
+"content": "Whether your idea of holiday spirit involves whiskey, gin, tequila or rum, having a festive cocktail to serve them in always makes the season a little merrier. The 17 recipes in this years Forbes Hol… [+26160 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "ComputerBase"
+},
+"author": "Fabian Vecellio del Monego",
+"title": "Wochenrück- und Ausblick: Der Nikolaus unterwegs in Pandora, Vice City und Pagonia",
+"description": "In der 49. Kalenderwoche 2023 dominierten die Ankündigung von Grand Theft Auto VI, der Technik-Test zu Avatar: Frontiers of Pandora mit AMD FSR 3 und natürlich das traditionelle Nikolaus-Rätsel das Geschehen auf ComputerBase.",
+"url": "https://www.computerbase.de/2023-12/wochenrueckblick-und-ausblick-2023-w49/",
+"urlToImage": "https://pics.computerbase.de/1/1/0/3/2/0-14d0abab776a4a00/article-1280x720.ce98f1e0.jpg",
+"publishedAt": "2023-12-10T07:30:00Z",
+"content": "In der 49. Kalenderwoche 2023 dominierten die Ankündigung von Grand Theft Auto VI, der Technik-Test zu Avatar: Frontiers of Pandora mit AMD FSR 3 und natürlich das traditionelle Nikolaus-Rätsel das G… [+2426 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Olhardigital.com.br"
+},
+"author": "Kelvin Leão Nunes da Costa",
+"title": "Os 5 melhores filmes Screenlife",
+"description": "Confira 5 filmes que utilizam a técnica screenlife, na qual o enredo se desenvolve a partir de telas digitais.\nO post Os 5 melhores filmes Screenlife apareceu primeiro em Olhar Digital.",
+"url": "https://olhardigital.com.br/2023/12/10/cinema-e-streaming/os-5-melhores-filmes-screenlife/",
+"urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2023/12/searching-2.jpg",
+"publishedAt": "2023-12-10T09:20:00Z",
+"content": "VocÃª jÃ¡ ouviu falar em filmes screenlife? Caso nÃ£o esteja familiarizado, os filmes desse estilo se desenrolam completamente nas telas de dispositivos eletrÃ´nicos, como computadores, smartphones, … [+4094 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Biztoc.com"
+},
+"author": "variety.com",
+"title": "Elon Musk Says Far-Right Firebrand Alex Jones Will Be Reinstated on X/Twitter",
+"description": "Elon Musk, continuing his campaign to make X a “free speech” refuge even to the detriment of the company’s business interests, said he is reinstating the account of far-right conspiracy theorist Alex Jones. Twitter banned Jones in 2018, along with his Infowar…",
+"url": "https://biztoc.com/x/78843e5886070cdb",
+"urlToImage": "https://c.biztoc.com/p/78843e5886070cdb/s.webp",
+"publishedAt": "2023-12-10T06:28:12Z",
+"content": "Elon Musk, continuing his campaign to make X a free speech refuge even to the detriment of the companys business interests, said he is reinstating the account of far-right conspiracy theorist Alex Jo… [+299 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Actualidadiphone.com"
+},
+"author": "Luis Padilla",
+"title": "No más globos azules en Android: Apple bloquea Beeper Mini",
+"description": "Una de las últimas soluciones para usar iMessage en Android ha sido bloqueada por Apple para mantener su servicio en exclusiva para iPhone",
+"url": "https://www.actualidadiphone.com/globos-azules-android-apple-bloquea-beeper-mini/",
+"urlToImage": "https://www.actualidadiphone.com/wp-content/uploads/2023/12/Beeper.jpg",
+"publishedAt": "2023-12-10T11:27:00Z",
+"content": "Ha durado poco la alegría para los usuarios de Android con los globos azules en sus teléfonos. Apple ha bloqueado el acceso de Beeper Mini a iMessage de manera que la app ya no funciona en los teléfo… [+2502 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Geekpark.net"
+},
+"author": null,
+"title": "Gemini 演示视频被指夸大性能；亚马逊测试人形机器人 Digit；《黑神话：悟空》官宣明年 8 月发售",
+"description": "苹果计划在印度每年生产超过 5000 万部 iPhone\n相关人士透露称，苹果公司及其位于印度的供应商定下了一个新目标：未来 2-3 年内，每年在印度生产超过 5000 万部 iPhone 手机，之后还计划生产数千万部。\n若这一目标实现，印度将占据全球 iPhone 产量的四分之一，并在本十年末进一步扩大份额。不过与此同时，中国仍将是全球最大 iPhone 生产国。\n报道还称，富士康目前正在印度南部建设的一家工厂预计明年 4 月投运，其目标是未来两到三年内每年生产 2000 万部 iPhone 和其他设备。此外，…",
+"url": "https://www.geekpark.net/news/328775",
+"urlToImage": "https://imgslim.geekpark.net/uploads/image/file/ce/65/ce65ea546de0245ac10a444ec837e83e.png",
+"publishedAt": "2023-12-10T00:04:27Z",
+"content": "5000 iPhone\r\n 2-3 5000 iPhone \r\n iPhone iPhone \r\n 4 2000 iPhone \r\nGemini \r\n AI Gemini \r\nDeepMind Gemini Gemini Gemini DeepMind \r\n Gemini Pro Bard GPT-4 Gemini Ultra \r\n Dojo \r\n12 8 Dojo · 11 ·\r\nDojo \r… [+843 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Geekpark.net"
+},
+"author": null,
+"title": "小米汽车发布时间定档；欧盟首个 AI 监管法案达成初步协议；英国监管机构审查微软与 OpenAI 合作关系｜极客早知道",
+"description": "欧盟围绕批准 AI 法案达成初步协议，大型通用 AI 模型将面临更多监管\n12 月 9 日，据法新社最新消息，经过 36 个小时谈判，欧盟成员国及欧洲议会议员就全球首个监管包括 ChatGPT 在内的人工智能的全面法规达成初步协议。欧洲新闻台形容说，谈判过程非常激烈，这是世界上首次尝试以全面的、基于伦理的方式监管这项快速发展的技术。\n「历史性的！随着今天围绕《人工智能法案》的政治协议达成，欧盟成为第一个为使用人工智能制定明确规则的大陆，」欧盟委员会内部市场专员蒂埃里·布雷顿表示。\n欧洲新闻台提到，早些时候周四（7…",
+"url": "https://www.geekpark.net/news/328778",
+"urlToImage": "https://imgslim.geekpark.net/uploads/image/file/51/d1/51d18069c7f1c3b67f72d9b9a934f803.jpg",
+"publishedAt": "2023-12-10T00:25:03Z",
+"content": "AI AI \r\n12 9 36 ChatGPT \r\n·\r\n7 OpenAI ChatGPT 8 \r\n 2026 \r\nTang Tan 2 \r\n12 9 Tang Tan 2 \r\nTan John Ternus iPhone Apple Watch Tan Ternus Tan Tan iPhoneApple Watch AirPods TechWeb\r\n OpenAI OpenAI \r\n12 9… [+966 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Pnghuy), Pnghuy",
+"title": "Beeper mini vừa ra mắt đã “bị chặn”",
+"description": "[CẬP NHẬT] Apple xác nhận đã ngăn chặn các cách thức khai thác thông tin giả mạo của Beeper vào iMessage để bảo vệ người dùng của mình khỏi nguy cơ bị rò rỉ metadata, tạo điều kiện cho các tin nhắn spam…",
+"url": "https://tinhte.vn/thread/beeper-mini-vua-ra-mat-da-bi-chan.3746618/",
+"urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/12/8210369_cover-beeper-mini-bi-chan-Apple.png",
+"publishedAt": "2023-12-10T03:21:57Z",
+"content": "[CP NHT] Apple xác nhn ã ngn chn các cách thc khai thác thông tin gi mo ca Beeper vào iMessage bo v ngi dùng ca mình khi nguy c b rò r metadata, to iu kin cho các tin nhn spam, các cuc tn công la o k… [+1490 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Netafull.net"
+},
+"author": "コグレマサト",
+"title": "【iPhone整備済製品】iPhone 12・iPhone 12 Pro【2023年12月10日】",
+"description": "Apple公式サイトの「iPhone整備済製品」の情報です。 Appleの整備済み品は問題があって返品された商品などを整備し、テスト後認定されたものです。1年間の特別保証が付いています。 最新の在庫情報は「Apple整備...\n投稿 【iPhone整備済製品】iPhone 12・iPhone 12 Pro【2023年12月10日】 は ネタフル に最初に表示されました。",
+"url": "https://netafull.net/apple-refurbished/0142210.html",
+"urlToImage": "https://netafull.net/wp-content/uploads/2023/03/iphone-refurbished-001-28.jpg",
+"publishedAt": "2023-12-10T07:00:00Z",
+"content": "AppleiPhone\r\nApple1\r\nApple\r\niPhone 12 128GB – SIM[]\r\n74,800\r\niPhone 12 256GB – SIM[]\r\n86,800\r\niPhone 12 Pro 128GB – SIM[]\r\n95,800\r\niPhone 12 Pro 128GB – SIM[]\r\n95,800\r\niPhone 12 Pro 256GB – SIM[]\r\n10… [+146 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Tinhte.vn"
+},
+"author": "no-reply@tinhte.vn (Anh Tú.), Anh Tú.",
+"title": "Apple sẽ mang cổng USB-C lên các phụ kiện cho Mac vào đầu năm 2024?",
+"description": "Một trong những điều bất ngờ trong sự kiện ngày 30 tháng 10 của Apple là việc thiếu các bản cập nhật USB-C cho các thiết bị ngoại vi của Mac. Một tin đồn mới trong tuần này cho biết Apple đang lên kế hoạch trang bị cổng USB-C cho các phụ kiện cho…",
+"url": "https://tinhte.vn/thread/apple-se-mang-cong-usb-c-len-cac-phu-kien-cho-mac-vao-dau-nam-2024.3746992/",
+"urlToImage": "https://photo2.tinhte.vn/data/attachment-files/2023/12/8210947_Cover-phu-kine-mac-tinhte-anhtu.jpeg",
+"publishedAt": "2023-12-10T10:17:42Z",
+"content": "Tin n này n t tài khon Instant Digital trên Weibo, tài khon này nói rng các ph kin ngoi vi cho Mac có cng USB-C s ra mt vào u nm 2024. mt ngun tin khác vào u tun này, Bloomberg ã nói rng Apple ang lê… [+413 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Daily Beast"
+},
+"author": "The Daily Beast",
+"title": "This Will Be the Final ‘Death Knell’ for Musk’s X",
+"description": "Photo Illustration by Erin O’Flynn/The Daily Beast/Getty Images and X \r\nListen to this full episode of The New Abnormal on Apple Podcasts, Spotify, Amazon and Stitcher.Ed Zitron, CEO of media and public relations group EZPR, tells The New Abnormal’s Andy Levy…",
+"url": "https://www.thedailybeast.com/ed-zitron-tells-the-new-abnormal-that-twitter-aka-x-will-die-if-sports-leave",
+"urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1702142318/231209-tna-bonus-twitter-x-sports-hero_byidx7",
+"publishedAt": "2023-12-10T03:11:44Z",
+"content": "Listen to this full episode of The New Abnormal on Apple Podcasts, Spotify, Amazon and Stitcher.\r\nEd Zitron, CEO of media and public relations group EZPR, tells The New Abnormals Andy Levy that Elon … [+2522 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Zive.cz"
+},
+"author": "Martin Chroust",
+"title": "Chraňte si svá tajemství. Návod, jak skrýt fotografie v Androidu a Apple iOS",
+"description": "Tu a tam musíte dát telefon z rukou, a přitom v něm jistě máte fotky, které by neměl vidět každý. V Androidu i v iOS je skryjete velmi jednoduše. V prvním případě máte spoustu možností, u iPhonů jednu základní bez instalace dalších aplikací.\n\nJak schovat foto…",
+"url": "https://www.zive.cz/clanky/chrante-si-sva-tajemstvi-navod-jak-skryt-fotografie-v-androidu-a-apple-ios/sc-3-a-225284/default.aspx",
+"urlToImage": "https://www.zive.cz/getthumbnail.aspx?q=100&height=20000&width=20000&id_file=183609907",
+"publishedAt": "2023-12-10T07:45:00Z",
+"content": "Tu a tam musíte dát telefon z rukou, a pitom v nm jist máte fotky, které by neml vidt kadý. V Androidu i v iOS je skryjete velmi jednodue. V prvním pípad máte spoustu moností, u iPhon jednu základní … [+263 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Macitynet.it"
+},
+"author": "Fabrizio Frattini",
+"title": "iPhone nuovo, ecco i migliori accessori da regalarsi e regalare subito",
+"description": "Se avete comprato un nuovo iPhone e state cercando un accessorio da regalarvi oppure se avete volete regalare qualche cosa a qualcuno che ha un Phone, ecco qui i nostri consigli. 12 prodotti che serv\n- su macitynet.it iPhone nuovo, ecco i migliori accessori d…",
+"url": "https://www.macitynet.it/migliori-accessori-iphone-da-comprare-subito/",
+"urlToImage": "https://www.macitynet.it/wp-content/uploads/2023/10/recensione-iphone-15-iphone-15-plus-4977.jpg",
+"publishedAt": "2023-12-10T10:10:16Z",
+"content": "La corsa agli iPhone 15 e iPhone 15 Pro è in pieno svolgimento. Se volete sapere quale dei due comprare vi consigliamo di dare un’occhiata al nostro confronto se invece volete approfondire l’argoment… [+16365 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Hwupgrade.it"
+},
+"author": null,
+"title": "TOP 5 bestseller Amazon: AirPods 99, portatili, tablet a 79, iPhone e super sconto su Microsoft 365 Family!",
+"description": "Ecco la classifica dei 5 prodotti TOP bestseller Amazon: dominano le AirPods a 99, ma ci sono sempre gli ottimi PC con 24GB di RAM, due super tablet a prezzo stracciato ma anche Microsoft 365 Family, sceso ulteriormente di prezzo!",
+"url": "https://www.hwupgrade.it/news/multimedia/top-5-bestseller-amazon-airpods-99-portatili-tablet-a-79-iphone-e-super-sconto-su-microsoft-365-family_122509.html",
+"urlToImage": "https://www.hwupgrade.it/i/n/ama_top5_airpods_720.jpg",
+"publishedAt": "2023-12-10T06:23:21Z",
+"content": "Guarda anche gli smartphone top di gamma superscontati (c'è anche Google Pixel 8 Pro!)\r\nAmazon Seconda Mano (ex Warehouse): non è segnalato, ma c'è uno sconto del 30% su tutti i prodotti usati garant… [+4807 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Unwire.hk"
+},
+"author": "藍骨",
+"title": "iPhone 設計負責人離職　相關設計部門架構將有變化",
+"description": "像 iPhone 這樣標誌性的產品，要保持設計上有變化之餘保持特色連貫並不容易。最近負責 iPhone 和 Apple Watch 產品設計的副總裁就將會離職，Apple 的硬件工程部門架構也因此會出現變化。\nThe post iPhone 設計負責人離職　相關設計部門架構將有變化 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+"url": "https://unwire.hk/2023/12/10/apple-s-iphone-and-watch-product-design-chief-to-leave/mobile-phone/",
+"urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2023/12/download-4-1.png",
+"publishedAt": "2023-12-10T04:01:01Z",
+"content": "iPhone iPhone Apple Watch Apple \r\nApple Tang Tan 2 Apple iPhone Apple Watch John Ternus Tang Tan iPhone Richard Dihn iPhone Ternus Mac Kate Bergeron Apple Watch \r\n Bloomberg Tang Tan iPhoneApple Watc… [+56 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Unwire.hk"
+},
+"author": "唐美鳳",
+"title": "韓國媒體指 LG 開發新屏幕技術 為未來 iPhone 提供屏底自拍鏡頭作準備",
+"description": "消息指 Apple 的韓國供應商正著手研發手機屏底相機技術，為未來 iPhone 改用沒有瀏海或開孔的真正全屏幕外觀設計作準備。根據韓國網站 The Elec 的報導，LG Innotek 已經開始了屏底自拍相機的初期開發，主要目標是解決現存技術的一些缺點。\nThe post 韓國媒體指 LG 開發新屏幕技術 為未來 iPhone 提供屏底自拍鏡頭作準備 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+"url": "https://unwire.hk/2023/12/10/iphone-under-display-camera-lg-innotek/mobile-phone/",
+"urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2023/12/04-9.png",
+"publishedAt": "2023-12-10T05:35:09Z",
+"content": "Apple iPhone The Elec LG Innotek \r\n Android LG Innotek Freeform Optic 12 \r\n LG LG Display Apple Apple Apple 2025 iPhone 17 Pro Touch ID 2027 \r\nmacrumors\r\n====\r\nunwire learn :\r\n AI &lt;&gt;"
+},
+-{
+"source": {
+"id": null,
+"name": "Unwire.hk"
+},
+"author": "唐美鳳",
+"title": "與 iPhone 14 共用電池 iPhone SE 4 傳明年推出",
+"description": "一直有傳聞指 Apple 會在 2024 年為 iPhone SE 推出第四代，可能會採用類似 iPhone 14 的機身設計，如今有關於 iPhone SE 4 所用電池的消息傳出。網站 MacRumors 獲知情人士報料，代號 D59 的 iPhone SE 4 原型機配備型號 A2863 的鋰電池。\nThe post 與 iPhone 14 共用電池 iPhone SE 4 傳明年推出 appeared first on 香港 unwire.hk 玩生活．樂科技.",
+"url": "https://unwire.hk/2023/12/10/iphone-14-battery-used-by-iphone-se-4-rumor/mobile-phone/",
+"urlToImage": "https://cdn.unwire.hk/wp-content/uploads/2023/12/01-9.png",
+"publishedAt": "2023-12-10T05:42:22Z",
+"content": "Apple 2024 iPhone SE iPhone 14 iPhone SE 4 MacRumors D59 iPhone SE 4 A2863 \r\n A2863 iPhone 14 iPhone 14 A2863 3,279mAh iPhone SE 3 2,018mAh iPhone SE 4 \r\n iPhone SE 4 LCD SE OLED USB-C Lightning Acti… [+55 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Macmagazine.com.br"
+},
+"author": "Bruno Santana",
+"title": "Apple e Paramount? O futuro do streaming parece cada vez mais com a TV a cabo",
+"description": "Quando as plataformas de entretenimento via streaming começaram a estourar, parecia que qualquer conversa sobre o tema com seus amigos se transformava rapidamente num comercial da Polishop: as cenas em preto-e-branco eram dos planos de TV a cabo, caríssimos, …",
+"url": "https://macmagazine.com.br/post/2023/12/10/apple-e-paramount-o-futuro-do-streaming-parece-cada-vez-mais-com-a-tv-a-cabo/",
+"urlToImage": "https://macmagazine.com.br/wp-content/uploads/2023/10/25-Paramount-logo-iPhone-scaled.jpg",
+"publishedAt": "2023-12-10T13:30:00Z",
+"content": "Quando as plataformas de entretenimento via streaming começaram a estourar, parecia que qualquer conversa sobre o tema com seus amigos se transformava rapidamente num comercial da Polishop: as cenas … [+6426 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Tweakers.net"
+},
+"author": "Jay Stout",
+"title": "Apple bevestigt maatregelen te hebben genomen tegen Beeper Mini",
+"description": "Apple bevestigt dat het maatregelen heeft genomen tegen Beeper Mini. De Amerikaanse techgigant zegt dat het technieken heeft geblokkeerd waardoor derde partijen met ‘valse inloggegevens’ niet langer gebruik kunnen maken van iMessage.",
+"url": "https://tweakers.net/nieuws/216472/apple-bevestigt-maatregelen-te-hebben-genomen-tegen-beeper-mini.html",
+"urlToImage": "https://tweakers.net/i/zcUq-7jq_4MXvf7NXd8yQqJYAMk=/134x134/filters:strip_exif()/i/2006283866.webp?f=meta",
+"publishedAt": "2023-12-10T08:36:51Z",
+"content": "Apple bevestigt dat het maatregelen heeft genomen tegen Beeper Mini. De Amerikaanse techgigant zegt dat het technieken heeft geblokkeerd waardoor derde partijen met valse inloggegevens niet langer ge… [+1554 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Iphones.ru"
+},
+"author": "Микк Сид",
+"title": "Воскресный дайджест. Здесь всё самое интересное за неделю, что вы могли пропустить",
+"description": "В выходной день предлагаю вспомнить, что интересного и важного произошло за прошедшую рабочую неделю, чтобы быть в курсе происходящих событий в мире гаджетов и технологий, а также обсудить это новости с друзьями. Ниже собрал всё самое интересное за прошедшие …",
+"url": "https://www.iphones.ru/iNotes/voskresnyy-daydzhest-zdes-vsyo-samoe-interesnoe-za-nedelyu-chto-vy-mogli-propustit-12-10-2023",
+"urlToImage": "https://www.iphones.ru/wp-content/plugins/wonderm00ns-simple-facebook-open-graph-tags/fbimg.php?img=https%3A%2F%2Fwww.iphones.ru%2Fwp-content%2Fuploads%2F2023%2F12%2F1212.jpg",
+"publishedAt": "2023-12-10T10:06:04Z",
+"content": ", , , .\r\n , iPhones.ru.\r\n , . , , , Apple , iCloud .\r\n :\r\n1. iPad 2023 . \r\n- , . , 2023 Apple , .\r\n – iPad . , . 2021 , , .\r\n , . .\r\n : iPad . , \r\n2. NFC iPhone \r\n, - . , - , .\r\n, . , , Wallet, iPhon… [+649 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Giga"
+},
+"author": "Martin Bosse",
+"title": "Apple-Knüller: iPhone 15 Pro Max mit 25‑GB‑Tarif zum Tiefstpreis",
+"description": "Bei o2 könnt ihr euch gerade ein attraktives Tarif-Paket mit dem brandaktuellen iPhone 15 Pro Max sichern. Dort erhaltet ihr das Top-Smartphone von Apple zusammen mit 25 GB 5G-Datenvolumen und einer Allnet- und SMS-Flat zum absoluten Sparpreis. Wir haben das …",
+"url": "https://www.giga.de/artikel/apple-knueller-iphone-15-pro-max-mit-25-gb-tarif-zum-tiefstpreis/",
+"urlToImage": "https://crops.giga.de/b7/c4/06/301e9377829965cfd711e877da_YyAxMzg4eDcyNSsxMys3NQJyZSAxMjAwIDYyNwNiNDNlNzI2ZjE4ZA==.jpg",
+"publishedAt": "2023-12-10T11:21:33Z",
+"content": "Bei o2 könnt ihr euch gerade ein attraktives Tarif-Paket mit dem brandaktuellen iPhone 15 Pro Max sichern. Dort erhaltet ihr das Top-Smartphone von Apple zusammen mit 25 GB 5G-Datenvolumen und einer … [+3712 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Livedoor.jp"
+},
+"author": "itsoku",
+"title": "【悲報】iPhoneとApple Watchのデザイン担当責任者、退社へ",
+"description": "1:うんこ(秋田県) [US]  2023/12/09(土) 15:49:58.59 ID:JdX60eqS0● BE:194767121-PLT(13001) （ブルームバーグ）： 米アップルの「iPhone」と「Apple Watch」のデザイン担当責任者が辞任すると、事情に詳しい複数の関係者が明らかにした。    関係者らによれば、製品デザ",
+"url": "http://blog.livedoor.jp/itsoku/archives/61069994.html",
+"urlToImage": "https://livedoor.blogimg.jp/itsoku/imgs/e/4/e411d753-s.png",
+"publishedAt": "2023-12-10T02:10:41Z",
+"content": "1:() [US] 2023/12/09() 15:49:58.59 ID:JdX60eqS0 BE:194767121-PLT(13001)\r\n iPhoneApple Watch \r\nhttps://news.yahoo.co.jp/articles/1020d251e4c225c8eb56a7afae1a9e607b4a24c2\r\n2:() [GB] 2023/12/09() 15:51:… [+2661 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Hvg.hu"
+},
+"author": "hvg@hvg.hu",
+"title": "Túl későn túl kevés? Mégis mi a helyzet az Apple mesterséges intelligenciájával?",
+"description": "Nem ez az első eset, hogy az Apple nincs az élen egy újdonságnál, miközben szép lassan azért érleli a sajátját. Amikor pedig előrukkol vele, az tényleg közel van a tökéleteshez. Kérdés, hogy a mesterséges intelligencia előretörésének világában mennyire kifize…",
+"url": "https://hvg.hu/tudomany/20231210_apple_mesterseges_intelligencia_fejlesztesek_mlx_keretrendszer",
+"urlToImage": "https://api.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/1139e2ed-f766-49cf-9e71-b37faebe33f8.jpg",
+"publishedAt": "2023-12-10T09:03:00Z",
+"content": "Nem ez az els eset, hogy az Apple nincs az élen egy újdonságnál, miközben szép lassan azért érleli a sajátját. Amikor pedig elrukkol vele, az tényleg közel van a tökéleteshez. Kérdés, hogy a mestersé… [+3326 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Hvg.hu"
+},
+"author": "hvg@hvg.hu",
+"title": "Elvitelre #44: Szkíták, drogkereskedők, ó-ó-ó Ausztria",
+"description": "Elvitelre - a podcast, amelyben az adott hét legjobb HVG hetilapos és hvg360-as anyagaiból válogatunk. Csak indítsa el a háttérben és hallgassa meg szerzőink legjobb írásait! Ezen a héten a dublini magyar drogügyek, az osztrák házelnök titkai és a szkíták nyo…",
+"url": "https://hvg.hu/itthon/20231210_Elvitelre_44_podcast_szkitak_kabitoszer_Dublin_Ausztria_Wolfgang_Sobotka_Pocs_Alfred",
+"urlToImage": "https://api.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/337671f2-e9c3-4e34-b23f-063d6c634cc1.jpg",
+"publishedAt": "2023-12-10T05:00:00Z",
+"content": "Elvitelre - a podcast, amelyben az adott hét legjobb HVG hetilapos és hvg360-as anyagaiból válogatunk. Csak indítsa el a háttérben és hallgassa meg szerzink legjobb írásait! Ezen a héten a dublini ma… [+784 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Blogger.com"
+},
+"author": "Aswath Damodaran",
+"title": "The Difference Makers: Key Person(s) Valuation",
+"description": null,
+"url": "https://www.blogger.com/comment.g?blogID=8152901575140311047&postID=1359171188376180560&bpli=1",
+"urlToImage": null,
+"publishedAt": "2023-12-10T11:01:00Z",
+"content": "Can one person make a difference to the value of a business? Of course, and with small businesses, especially those built around personal services (a doctor or plumber’s practice), it is part of the … [+39850 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Ipadizate.com"
+},
+"author": "Eduardo Savín",
+"title": "Listas compartidas de Apple Music en iOS 17: así es como funcionan",
+"description": "IOS 17 ya lleva algo de tiempo instalado en la mayoría de los dispositivos Apple compatibles. Aunque ha pasado algo de tiempo desde su lanzamiento oficial, ha habido funciones que siguen sorprendiendo a los usuarios, y una de ellas son las listas compartidas …",
+"url": "https://ipadizate.com/ios/listas-compartidas-de-apple-music-en-ios-17-asi-es-como-funcionan",
+"urlToImage": "https://ipadizate.com/hero/2023/12/listas-compartidas-de-apple-music-en-ios-17-1-1-1.jpg?width=1200",
+"publishedAt": "2023-12-10T08:00:15Z",
+"content": "Listas compartidas de Apple Music\r\nIOS 17 ya lleva algo de tiempo instalado en la mayoría de los dispositivos Apple compatibles. Aunque ha pasado algo de tiempo desde su lanzamiento oficial, ha habid… [+2670 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Ipadizate.com"
+},
+"author": "Ángel Roca",
+"title": "Funciones de Android que deberían estar en el iPhone",
+"description": "No es fácil saber cuál de los dos sistemas operativos es mejor, si iOS o Android. Pero lo que sí sabemos es que hay algunas funciones presentes en el sistema operativo de Google que Apple debería copiar e incorporar al iPhone. Los iPhone tienen cosas buenas, …",
+"url": "https://ipadizate.com/iphone/funciones-de-android-que-deberian-estar-en-el-iphone",
+"urlToImage": "https://ipadizate.com/hero/2023/12/pixel-8-android-iphone-15-pro.jpg?width=1200",
+"publishedAt": "2023-12-10T11:01:36Z",
+"content": "Apple debería copiar en el iPhone estas cosas de Android\r\nNo es fácil saber cuál de los dos sistemas operativos es mejor, si iOS o Android. Pero lo que sí sabemos es que hay algunas funciones present… [+3029 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "1970-01-01T00:00:00Z",
+"content": "[Removed]"
+},
+-{
+"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "1970-01-01T00:00:00Z",
+"content": "[Removed]"
+},
+-{
+"source": {
+"id": null,
+"name": "Hvg.hu"
+},
+"author": "hvg@hvg.hu",
+"title": "A Nagy Testvér még ezt is látja: a mobilján felugró összes értesítést megfigyelhetik a kormányok",
+"description": "Gyakorlatilag bármit megfigyelhetnek a kormányzatok a mobilos értesítéseinken keresztül – és ez úgy tűnik, nem is csak egy elmélet.",
+"url": "https://hvg.hu/tudomany/20231210_apple_iphone_google_android_okostelefonos_ertesitesek_kormanyzati_megfigyelese_lehallgatas_ron_wyden_amerikai_szenator_atlathatosagi_jelentes",
+"urlToImage": "https://api.hvg.hu/Img/7fcefbf8-ac48-4ee6-aef5-32203afa118c/b392767c-ebfc-4c64-bb17-179a46b08216.jpg",
+"publishedAt": "2023-12-10T07:03:00Z",
+"content": "Gyakorlatilag bármit megfigyelhetnek a kormányzatok a mobilos értesítéseinken keresztül és ez úgy tnik, nem is csak egy elmélet.\r\nAz ön telefonjára milyen értesítések szoktak érkezni? És mit szólna a… [+2259 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Linux.org.ru"
+},
+"author": "basilic",
+"title": "Уязвимость в Bluetooth-стеках Linux, macOS, Android и iOS",
+"description": "Марк Ньюлин (Marc Newlin), который выявил уязвимость MouseJack семь лет назад, раскрыл информацию о аналогичной уязвимости (CVE-2023-45866), затрагивающей Bluetooth-стеки Android, Linux, macOS и iOS. Эта уязвимость позволяет осуществить подмену нажатий клавиш…",
+"url": "https://www.linux.org.ru/news/security/17447666",
+"urlToImage": "https://www.linux.org.ru/img/good-penguin.png",
+"publishedAt": "2023-12-10T06:49:38Z",
+"content": "(Marc Newlin), MouseJack , (CVE-2023-45866), Bluetooth- Android, Linux, macOS iOS. , Bluetooth. , , , . , HID (Human Interface Device) Bluetooth- , . , HID- , HID-, . 100 .\r\n Bluetooth , Bluetooth-, … [+441 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Techviral.net"
+},
+"author": "Amarnath Chakraborty",
+"title": "Download MangaToon for PC in 2023 (2 Methods)",
+"description": "Let’s admit it: we all love entertainment when we get bored. Although there are many means of entertainment, the most famous ones are watching movies or reading comic books. Japanese comic books, also known as Mangas, are a great way to spend time and relax. …",
+"url": "https://techviral.net/download-mangatoon-for-pc/",
+"urlToImage": "https://techviral.net/wp-content/uploads/2023/12/MangaToon-featured.jpg",
+"publishedAt": "2023-12-10T12:23:29Z",
+"content": "Lets admit it: we all love entertainment when we get bored. Although there are many means of entertainment, the most famous ones are watching movies or reading comic books.\r\nJapanese comic books, als… [+3990 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "[Removed]"
+},
+"author": null,
+"title": "[Removed]",
+"description": "[Removed]",
+"url": "https://removed.com",
+"urlToImage": null,
+"publishedAt": "1970-01-01T00:00:00Z",
+"content": "[Removed]"
+},
+-{
+"source": {
+"id": null,
+"name": "Begeek.fr"
+},
+"author": "Morgan Fromentin",
+"title": "Apple vise une production de plus de 50 millions de téléphones en Inde en trois ans",
+"description": "Cela représenterait un quart de la production mondiale d'iPhone. Vous imaginez l'impact sur l'industrie si cela devait arriver ?",
+"url": "https://www.begeek.fr/apple-vise-une-production-de-plus-de-50-millions-de-telephones-en-inde-en-trois-ans-390092",
+"urlToImage": "https://www.begeek.fr/wp-content/uploads/2023/03/Apple-MacBook-iPhone.jpg",
+"publishedAt": "2023-12-10T09:00:15Z",
+"content": "Cela représenterait un quart de la production mondiale d'iPhone. Vous imaginez l'impact sur l'industrie si cela devait arriver ?\r\nTl;dr\r\n<ul><li>Apple augmente la production des iPhone en Inde.</li><… [+1819 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": null,
+"title": "Apple claims security fears behind block of Beeper Mini app",
+"description": null,
+"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_52549743-90a8-4226-ac63-2a65008ba698",
+"urlToImage": null,
+"publishedAt": "2023-12-10T12:43:44Z",
+"content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Appleinsider.ru"
+},
+"author": "Иван Герасимов",
+"title": "Жуткие косяки Apple Watch, о которых мало кто знает. Таких проблем нет даже у Mi Band за 3000 рублей",
+"description": "Apple Watch имеют не только недостатки известные всем, но и скрытые проблемы, о которых мало кто знает. Неточные датчики, подсчет калорий во время поездки в транспорте - лишь часть того, с чем придется смириться. Смотри, что еще не так с этими смарт-часами",
+"url": "https://appleinsider.ru/tips-tricks/zhutkie-kosyaki-apple-watch-o-kotoryx-malo-kto-znaet-takix-problem-net-dazhe-v-mi-band-za-3000-rublej.html",
+"urlToImage": "https://appleinsider.ru/wp-content/uploads/2023/12/apple_watch_troubles-1000x526.jpg",
+"publishedAt": "2023-12-10T08:25:18Z",
+"content": "Apple Watch -. , . , iPhone, , . , . , Apple Watch . 4 , Mi Band. Apple Watch, Apple . \r\n Apple Watch 4 \r\nApple Watch \r\n , Apple Watch. , . , - , . , Mi Band 4 . ?\r\n 12:00 Apple Watch , \r\n<ul><li>, A… [+607 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Securityaffairs.com"
+},
+"author": "Pierluigi Paganini",
+"title": "Security Affairs newsletter Round 449 by Pierluigi Paganini – INTERNATIONAL EDITION",
+"description": "A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Hackti…",
+"url": "https://securityaffairs.com/155564/breaking-news/security-affairs-newsletter-round-449-by-pierluigi-paganini-international-edition.html",
+"urlToImage": "https://securityaffairs.com/wp-content/uploads/2015/03/newsletter.png",
+"publishedAt": "2023-12-10T10:36:28Z",
+"content": "Security Affairs newsletter Round 449 by Pierluigi Paganini INTERNATIONAL EDITION\r\n | Hacktivists hacked an Irish water utility and interrupted the water supply\r\n | 5Ghoul flaws impact hundreds of 5G… [+27552 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Index.hu"
+},
+"author": "Gábor Zoltán",
+"title": "Androidos mobilokról is elérhetővé vált az iMessage",
+"description": "Androidos mobilokról is elérhetővé vált az iMessage - Kijátszották az Apple-t, nincsenek többé korlátok.",
+"url": "https://index.hu/techtud/2023/12/10/beeper-mini-android-iphone-imessage-uzenet-chat/",
+"urlToImage": "https://kep.cdn.index.hu/1/0/5376/53766/537663/53766395_3977617_2bfb068198b818cce92ddfbf0b5fd759_wm.jpg",
+"publishedAt": "2023-12-10T05:45:00Z",
+"content": "A Beeper elször 2021-ben indult azzal a céllal, hogy az összes csevegalkalmazást egy helyen összesítse, sokak számára azonban már akkor is az iMessage volt a f vonzer, az app ugyanis lehetvé tette, h… [+3787 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Googlediscovery.com"
+},
+"author": "Renê Fraga",
+"title": "Apple confirma que bloqueou Beeper Mini no Android para proteger a segurança dos usuários",
+"description": "A Apple emitiu um comunicado confirmando que bloqueou o Beeper Mini no Android com o objetivo de proteger a segurança dos usuários. A empresa tomou medidas para impedir o uso de técnicas que exploram credenciais falsas para obter acesso ao iMessage. Segundo a…",
+"url": "https://googlediscovery.com/2023/12/10/apple-confirma-que-bloqueou-beeper-mini-no-android-para-proteger-a-seguranca-dos-usuarios/",
+"urlToImage": "https://cdn.googlediscovery.com/wp-content/uploads/imessages.jpg",
+"publishedAt": "2023-12-10T03:01:46Z",
+"content": "A Apple emitiu um comunicado confirmando que bloqueou o Beeper Mini no Android com o objetivo de proteger a segurança dos usuários. \r\nA empresa tomou medidas para impedir o uso de técnicas que explor… [+2193 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Yahoo Entertainment"
+},
+"author": "Yahoo Sports",
+"title": "Anthony Davis dominates NBA in-season tournament championship to unlock Lakers' playoff script",
+"description": "He nestles perfectly in James’ shadow, never upsetting the apple cart when his talent makes the case he could cause conflict.",
+"url": "https://consent.yahoo.com/v2/collectConsent?sessionId=1_cc-session_9ffdbcf6-1853-4db7-8152-6333d45afe22",
+"urlToImage": null,
+"publishedAt": "2023-12-10T07:08:12Z",
+"content": "Si vous cliquez sur « Tout accepter », nos partenaires (y compris 241 qui font partie du Cadre de transparence et de consentement dIAB) et nous utiliserons également des témoins et vos données person… [+982 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Roland Hutchinson",
+"title": "More Details on iOS 17.2 Release Candidate (Video)",
+"description": "Last week Apple released iOS 17.2 Release Candidate, this should be the final version of Apple iOS 17.2 and we are expecting that to be released to everyone this week, probably on Tuesday. Apple also released iPadOS 17.2 Release Candidate, macOS 14.2 Release …",
+"url": "https://www.geeky-gadgets.com/more-details-on-ios-17-2-release-candidate-video/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/iOS-17.2-2.jpg",
+"publishedAt": "2023-12-10T10:00:53Z",
+"content": "Last week Apple released iOS 17.2 Release Candidate, this should be the final version of Apple iOS 17.2 and we are expecting that to be released to everyone this week, probably on Tuesday.\r\nApple als… [+4736 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Roland Hutchinson",
+"title": "How to take screen recordings on your Mac",
+"description": "This guide is designed to show you how to take screen recordings on your Mac.The skill of screen recording on a Mac holds significant value across a diverse spectrum of users, including professionals, educators, and casual users, each finding unique applicati…",
+"url": "https://www.geeky-gadgets.com/how-to-take-screen-recordings-on-your-mac/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/screen-recordings-Mac.jpg",
+"publishedAt": "2023-12-10T06:01:00Z",
+"content": "This guide is designed to show you how to take screen recordings on your Mac.The skill of screen recording on a Mac holds significant value across a diverse spectrum of users, including professionals… [+5804 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Geeky Gadgets"
+},
+"author": "Roland Hutchinson",
+"title": "Clear the history, cache, and cookies from Safari on your iPhone",
+"description": "This guide is designed to show you how to clear the history, cache, and cookies in Apple’s Safari browser on your iPhone. Every time you browse the web on your iPhone using Safari, the browser stores various information, such as the sites you visited (history…",
+"url": "https://www.geeky-gadgets.com/clear-the-history-cache-and-cookies-from-safari-on-your-iphone/",
+"urlToImage": "https://www.geeky-gadgets.com/wp-content/uploads/2023/12/iPhone-2.jpg",
+"publishedAt": "2023-12-10T12:10:49Z",
+"content": "This guide is designed to show you how to clear the history, cache, and cookies in Apple’s Safari browser on your iPhone. Every time you browse the web on your iPhone using Safari, the browser stores… [+5578 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Ixbt.com"
+},
+"author": "dexter@ixbt.com (Dexter)",
+"title": "Более 21 лайка на фото. Фотографии, сделанные Samsung Galaxy S23 Ultra, в числе самых любимых у пользователей фотохостинга Flickr",
+"description": "Фотохостинг Flickr опубликовал рейтинг камерофонов, который составлялся исходя из количества лайков на одну фотографию. На первом месте – iPhone 13 Pro, и в целом в топ-10 шесть позиций у смартфонов Apple. А лучший из лагеря Android – это Galaxy S23 Ultra, и …",
+"url": "https://www.ixbt.com/news/2023/12/10/21-samsung-galaxy-s23-ultra-flickr.html",
+"urlToImage": "https://www.ixbt.com/img/n1/news/2023/11/0/sams_large.JPG",
+"publishedAt": "2023-12-10T05:54:00Z",
+"content": "Flickr . . – iPhone 13 Pro, -10 Apple. Android – Galaxy S23 Ultra, .\r\n Galaxy S21, – Redmi Note 9. , , , , iPhone 14 Pro. Redmi Note 9 Google Pixel 7 Pro."
+},
+-{
+"source": {
+"id": null,
+"name": "Webnews.it"
+},
+"author": "Massimo Reina",
+"title": "FIERA dell’USATO di NATALE: su Amazon Seconda Mano sconti PAZZESCHI sui TOP di GAMMA",
+"description": "Su Amazon Seconda Mano gli affari fioccano come la neve: approfitta di queste incredibili occasioni oggi stesso.",
+"url": "https://www.webnews.it/fiera-dellusato-di-natale-su-amazon-seconda-mano-sconti-pazzeschi-sui-top-di-gamma/",
+"urlToImage": "https://cdn.webnews.it/5aRlnNJx3y4oHBSdCrkf75wEk5c=/160x160/filters:format(webp)/https://www.webnews.it/app/uploads/2023/12/4588890-hands-the-walking-dead-zombies-artwork-door-horror.jpg",
+"publishedAt": "2023-12-10T11:39:34Z",
+"content": "Se sei un amante degli affari e desideri dare una seconda vita a oggetti di qualità, Amazon Seconda Mano è il luogo ideale per te. Ecco le 10 migliori occasioni di oggi per farti risparmiare e portar… [+8299 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 8598元",
+"description": "Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 8598元,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+"url": "https://www.smzdm.com/p/99073915/",
+"urlToImage": "https://qny.smzdm.com/202312/10/65757460d13456130.jpg_d250.jpg",
+"publishedAt": "2023-12-10T08:40:57Z",
+"content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "Apple 苹果 iPad Pro 2022款 11英寸 平板电脑 4999元（需用券）",
+"description": "Apple 苹果 iPad Pro 2022款 11英寸 平板电脑 4999元（需用券）,什么值得买甄选出拼多多优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+"url": "https://www.smzdm.com/p/99055616/",
+"urlToImage": "https://qny.smzdm.com/202312/10/657539284de665306.jpg_d250.jpg",
+"publishedAt": "2023-12-10T06:07:39Z",
+"content": "2021iPad Pro2022Apple M2 8 10M115% 40%50%iPad Pro  3  ProRes 128GB256GB512GB8GB1TB16GB\r\n11 iPad Pro Liquid 600nit120Hz P3 1200ID\r\niPad Pro 202212001000ProRes HDR4\r\niPadOS 16APP\r\n2022 iPad Pro USB 4 4… [+69 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "Apple 苹果 iPhone 15 Pro 5G手机 256GB 蓝色钛金属 8149元（需用券）",
+"description": "Apple 苹果 iPhone 15 Pro 5G手机 256GB 蓝色钛金属 8149元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+"url": "https://www.smzdm.com/p/99066373/",
+"urlToImage": "https://qny.smzdm.com/202309/13/6500b101c43396167.png_d250.jpg",
+"publishedAt": "2023-12-10T07:37:13Z",
+"content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "好价汇总：双十二年终狂欢，今晚20点预告好价抢先看~",
+"description": "编辑部小小值随着最近的飞速发展，智能设备的跌代速度以及新品发布速度也是越来越快。2023年还有不到一个月就要结束了，这时候不得升级波装备，犒劳犒劳自己。下面，小值为大家搜集汇总了双十二低价智能设备，助力大家抄底心仪的智能设备！苹果 Watch Ultra 2代 智能手表到手价5099元；小米...",
+"url": "https://www.smzdm.com/p/98952075/",
+"urlToImage": "https://qny.smzdm.com/202312/09/65740f37c07d78929.jpg_d250.jpg",
+"publishedAt": "2023-12-10T06:07:39Z",
+"content": "Apple Watch Ultra 2 95% Modular Ultra 3000 \r\nApple Watch Ultra 2 S9 Apple Watch Ultra S8 60% 30%2 Apple Watch Ultra iPhone\r\nApple Watch Ultra 2 Double TapDouble Tap \r\nApple Watch Ultra 2 36 72"
+},
+-{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 白色钛金属 8999元包邮（需用券）",
+"description": "Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 白色钛金属 8999元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+"url": "https://www.smzdm.com/p/98868563/",
+"urlToImage": "https://qny.smzdm.com/202312/08/6572c046ce0e89889.jpg_d250.jpg",
+"publishedAt": "2023-12-10T01:54:49Z",
+"content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 蓝色钛金属 9199元（需用券）",
+"description": "Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 蓝色钛金属 9199元（需用券）,什么值得买甄选出京东优惠促销商品,包括Apple/苹果报价、多少钱等信息,认真生活,好好花钱就上什么值得买。",
+"url": "https://www.smzdm.com/p/99037573/",
+"urlToImage": "https://qny.smzdm.com/202312/10/657510098456a4957.jpg_d250.jpg",
+"publishedAt": "2023-12-10T01:35:19Z",
+"content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "百亿补贴：Apple 苹果 iPhone 15 Pro 5G手机 512GB 9798元包邮（需用券）",
+"description": "玩家之道全新的钛合金边框，有史以来最轻最窄边框的Pro系列，更好更清晰的深度拍照体验。拼多多此款目前活动售价9998元，下单领取200元优惠券，实付低至9798元，近期好价，感兴趣的值友可以入手。",
+"url": "https://www.smzdm.com/p/99093347/",
+"urlToImage": "https://y.zdmimg.com/202309/13/6500b104b5a4f4674.png_d250.jpg",
+"publishedAt": "2023-12-10T12:54:28Z",
+"content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "京东百亿补贴：Apple 苹果 iPhone 15 Pro 5G手机 128GB 原色钛金属 6998元",
+"description": "京东此款目前活动售价6998元，自营，近期好价。",
+"url": "https://www.smzdm.com/p/99073073/",
+"urlToImage": "https://y.zdmimg.com/202309/13/6500b104b5a4f4674.png_d250.jpg",
+"publishedAt": "2023-12-10T08:06:51Z",
+"content": "iPhone 15 Pro 6.1 ProMotion Super Retina XDR 120Hz iOS 17 187 \r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 242835mmiPhone 15 Pro… [+106 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Smzdm.com"
+},
+"author": null,
+"title": "百亿补贴：Apple 苹果 iPhone 15 Pro Max 5G手机 256GB 8598元包邮（需用券）",
+"description": "玩家之道搭载A17 Pro芯片，更新USB-C接口，使用钛合金边框，潜望式长焦镜头~拼多多此款目前活动售价8798元，下单领取200元优惠券，实付低至8598元，近期好价，感兴趣的值友可以入手。",
+"url": "https://www.smzdm.com/p/99093199/",
+"urlToImage": "https://qny.smzdm.com/202310/11/65268ca8d4c711901.jpg_d250.jpg",
+"publishedAt": "2023-12-10T12:54:28Z",
+"content": "iPhone 15 Pro Max 6.7ProMotion Super Retina XDR 120Hz iOS 17 iPhone 14 Pro Max 19g\r\niPhone 15 Pro Action Action \r\niPhone 15 Pro A17 Pro 3nm CPU 16 10% 6 GPU 20% iPhone 15 Pro 3A\r\niPhone 15 Pro 48MP 2… [+135 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "512pixels.net"
+},
+"author": "Stephen Hackett",
+"title": "Apple Kills Beeper Mini",
+"description": "It took less time than I expected, but Apple has responded to the recent news that part of iMessage had been reverse-engineered, opening the door to blue bubbles on Android. Here's David Pierce: A few days after the team at Beeper proudly announced a way for …",
+"url": "https://512pixels.net/2023/12/apple-kills-beeper-mini/",
+"urlToImage": "https://512pixels.net/wp-content/uploads/2021/10/cropped-logo.png",
+"publishedAt": "2023-12-10T04:43:14Z",
+"content": "A few days after the team at Beeper proudly announced a way for users to send blue-bubble iMessages directly from their Android devices without any weird relay servers, and about 24 hours after it be… [+1013 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Unlimit-tech.com"
+},
+"author": "Sultan Alqahtani",
+"title": "منصة Apple Arcade تحصل على بعض الألعاب الجديدة الرائعة خلال هذا الموس",
+"description": "هذا الموضوع منصة Apple Arcade تحصل على بعض الألعاب الجديدة الرائعة خلال هذا الموس ظهر على التقنية بلا حدود.\nأعلنت منصة Apple Arcade عن تقديمها لألعاب جديدة خلال موسم العطلات، وبالتحديد ثمانية ألعاب سيتم إطلاقها حتى نهاية العام. سنبدأ بلعبة Knotwords، وهي لعبة…",
+"url": "https://www.unlimit-tech.com/2023/12/%d9%85%d9%86%d8%b5%d8%a9-apple-arcade-%d8%aa%d8%ad%d8%b5%d9%84-%d8%b9%d9%84%d9%89-%d8%a8%d8%b9%d8%b6-%d8%a7%d9%84%d8%a3%d9%84%d8%b9%d8%a7%d8%a8-%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af%d8%a9-%d8%a7%d9%84/",
+"urlToImage": "https://www.unlimit-tech.com/wp-content/uploads/IMG_8228-1.jpg",
+"publishedAt": "2023-12-10T10:30:22Z",
+"content": "Apple Arcade .\r\n Knotwords.\r\n Football Manager Downwell/ Delicious – Miracle of Life (24. .\r\nDreamlight Valley Sonic Sonic Dream Team RPG Puzzles &amp; Dragons .\r\n Turmoil.\r\n Apple Arcade /."
+},
+-{
+"source": {
+"id": null,
+"name": "Linuxfr.org"
+},
+"author": "Florent Zara",
+"title": " Meilleures contributions LinuxFr.org : les primées de novembre 2023",
+"description": "L’actualité du logiciel libre et des sujets voisins (DIY, Open Hardware, Open Data, les Communs, etc.), sur un site francophone contributif géré par une équipe bénévole par et pour des libristes enthousiastes",
+"url": "https://linuxfr.org/news/meilleures-contributions-linuxfr-org-les-primees-de-novembre-2023",
+"urlToImage": null,
+"publishedAt": "2023-12-10T07:33:31Z",
+"content": "Nous continuons sur notre lancée de récompenser celles et ceux qui chaque mois contribuent au site LinuxFr.org (dépêches, commentaires, logo, journaux, correctifs, etc.). Vous n’êtes pas sans risquer… [+2213 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "The Week Magazine"
+},
+"author": "theweekonlineeditorsuk@futurenet.com (The Week UK)",
+"title": "Recipe: all-Irish punch bowl by Oisín Davis",
+"description": "A festive and flavourful concoction with citrus, cider and honey",
+"url": "https://theweek.com/culture-life/food-drink/recipe-all-irish-punch-bowl-by-oisin-davis",
+"urlToImage": "https://cdn.mos.cms.futurecdn.net/WL4payCRQCwxUcekdQ8vfL-1200-80.png",
+"publishedAt": "2023-12-10T09:01:04Z",
+"content": "This punch, which has been in my arsenal for donkey's years, is great for a festive party, said Oisín Davis. You just can't go wrong with these classic Irish flavours all bundled together and bound w… [+1979 chars]"
+},
+-{
+"source": {
+"id": null,
+"name": "Ozbargain.com.au"
+},
+"author": "Buy2Much",
+"title": "25% off Points on Selected Gift Cards (TCN, JB, Bunnings, Apple, TheGoodGuys, EB Games, Woolworths and More) @ Qantas Market Pla",
+"description": "Excellent deal unless you are saving up your points to redeem flights.\nBest to redeem digital instead of physical GCs as you get them quicker and don't cost points for postage.\n\n\n Discount applies when using points only and ends 11:59pm (AEDT) 25 December 202…",
+"url": "https://www.ozbargain.com.au/node/819483",
+"urlToImage": "https://files.ozbargain.com.au/n/83/819483l.jpg?h=aacba397",
+"publishedAt": "2023-12-10T09:48:21Z",
+"content": "All trademarks are owned by their respective owners.OzBargain is an independent community website which has no association with nor endorsement by the respective trademark owners.\r\nCopyright © 2006-2… [+32 chars]"
+}
+]
+}
